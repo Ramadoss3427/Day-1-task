@@ -1,0 +1,15 @@
+Write difference between HTTP1.1 vs HTTP2?
+
+HTTP1.1:
+      *HTTP1.1 which created in 1997
+      *it works on the textual format
+      *there is head of line blocking that blocks all the requests in untill it doesn't get in all resorces
+      *it compresses data by itself
+      *it uses requests including for uses getting multiple pages
+
+HTTP2:
+     *HTTP2 which created in 2015
+     *it works on the binary protocal
+     *it allows multiplexing on TCP connection is required for multiple requests
+     *it uses HPACK for data compression
+     *it uses push frame by server that collect all multiple pages

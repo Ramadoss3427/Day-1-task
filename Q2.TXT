@@ -1,0 +1,6 @@
+write note on objects and internal representation?
+         *objects let you group related data together and split code into logical pieces
+         *objects are impportant data types in javascript
+         *objects are its called for internal represented for prmitive values and references values
+         *number,boolean,null,undefined,string and symbol are prmitive values
+         *while objects like DOM nodes,arrays on are references values
